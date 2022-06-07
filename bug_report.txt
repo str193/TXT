@@ -1,0 +1,7 @@
+summary: Submit button not working
+description: An error occurs while sending a message
+steps:1. Write a message 2. Press the send button
+result: An error message appears
+waiting: The message is sent to the recipient
+severity: minor
+priority: low
