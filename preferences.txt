@@ -1,0 +1,4 @@
+favorite_movie: Green Mile
+favorite_series: Paper house
+favorite_time_of_year: summer
+favorite_country: The USA
